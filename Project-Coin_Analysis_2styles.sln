@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Coin_Analysis_2styles", "Project-Coin_Analysis_2styles.csproj", "{B3DF8900-B65A-DAA6-D6BB-A39A2ED32946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DF8900-B65A-DAA6-D6BB-A39A2ED32946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DF8900-B65A-DAA6-D6BB-A39A2ED32946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DF8900-B65A-DAA6-D6BB-A39A2ED32946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DF8900-B65A-DAA6-D6BB-A39A2ED32946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B8E418-9CA3-4495-9E5F-9C173C7FD912}
+	EndGlobalSection
+EndGlobal

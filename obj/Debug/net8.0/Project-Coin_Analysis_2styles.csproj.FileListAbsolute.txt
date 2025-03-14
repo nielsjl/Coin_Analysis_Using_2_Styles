@@ -1,0 +1,14 @@
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\bin\Debug\net8.0\Project-Coin_Analysis_2styles.exe
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\bin\Debug\net8.0\Project-Coin_Analysis_2styles.deps.json
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\bin\Debug\net8.0\Project-Coin_Analysis_2styles.runtimeconfig.json
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\bin\Debug\net8.0\Project-Coin_Analysis_2styles.dll
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\bin\Debug\net8.0\Project-Coin_Analysis_2styles.pdb
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\Project-Coin_Analysis_2styles.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\Project-Coin_Analysis_2styles.AssemblyInfoInputs.cache
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\Project-Coin_Analysis_2styles.AssemblyInfo.cs
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\Project-Coin_Analysis_2styles.csproj.CoreCompileInputs.cache
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\Project-Coin_Analysis_2styles.dll
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\refint\Project-Coin_Analysis_2styles.dll
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\Project-Coin_Analysis_2styles.pdb
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\Project-Coin_Analysis_2styles.genruntimeconfig.cache
+c:\Users\njohn\OneDrive\Documents\Coding-Projects\Project-Coin_Analysis_2styles\obj\Debug\net8.0\ref\Project-Coin_Analysis_2styles.dll
