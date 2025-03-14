@@ -22,6 +22,7 @@ The two different coding styles:
 
 ### 4. Output
 The result of each analysis is output to the console. For example when the decimal value of 987.65 is entered then the output will look like this:
+
     ```
     Amount in cents: 98765
     Coin Analysis Using A Foreach Loop:
