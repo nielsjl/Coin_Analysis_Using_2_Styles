@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj": {}
+    "C:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj": {}
   },
   "projects": {
-    "c:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj": {
+    "C:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj",
+        "projectUniqueName": "C:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj",
         "projectName": "Project-Coin_Analysis_2styles",
-        "projectPath": "c:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj",
+        "projectPath": "C:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\Project-Coin_Analysis_2styles.csproj",
         "packagesPath": "C:\\Users\\njohn\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\obj\\",
+        "outputPath": "C:\\Users\\njohn\\OneDrive\\Documents\\Coding-Projects\\Project-Coin_Analysis_2styles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\njohn\\AppData\\Roaming\\NuGet\\NuGet.Config"
